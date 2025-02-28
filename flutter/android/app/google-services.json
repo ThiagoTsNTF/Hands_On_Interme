@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "100215563254",
+    "firebase_url": "https://sleepguard-82799-default-rtdb.firebaseio.com",
+    "project_id": "sleepguard-82799",
+    "storage_bucket": "sleepguard-82799.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100215563254:android:76ab8f7cd81ae0fcf49dd7",
+        "android_client_info": {
+          "package_name": "br.com.sleepguard.sleepguard_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJ_sECaD7OWfJ_sgk2MbDsmrhz29FmR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
